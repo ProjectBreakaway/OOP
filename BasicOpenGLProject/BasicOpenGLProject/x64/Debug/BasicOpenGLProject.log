@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\JoyMo\Downloads\BasicOpenGLProject\BasicOpenGLProject\BasicOpenGLProject\main.cpp(56,19): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\JoyMo\Downloads\BasicOpenGLProject\BasicOpenGLProject\BasicOpenGLProject\main.cpp(56,16): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+  BasicOpenGLProject.vcxproj -> C:\Users\JoyMo\Downloads\BasicOpenGLProject\BasicOpenGLProject\x64\Debug\BasicOpenGLProject.exe
